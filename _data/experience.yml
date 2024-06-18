@@ -8,6 +8,7 @@
     l’équipe	BigData,	nous	déployons	et	maintenons	Spark	sur	
     Kubernetes	à	destination	de	plusieurs	équipes	projets.	
     Missions :<br />
+    
     <ul class="resume-item-l">
     <li>Automatisation du déploiement de Spark (et Spark Operator) et toutes ses 
     dépendances sur Kubernetes (AKS) au travers d’une application interne 
