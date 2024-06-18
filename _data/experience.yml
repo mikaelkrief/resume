@@ -7,18 +7,16 @@
     Au	sein	de	la	feature	team	Spark	On	Kubernetes	qui	fait	partie	de	
     l’équipe	BigData,	nous	déployons	et	maintenons	Spark	sur	
     Kubernetes	à	destination	de	plusieurs	équipes	projets.	
-    Missions :<br />
-    
-    <ul class="resume-item-l">
+  mission:  |
+    <ul>
     <li>Automatisation du déploiement de Spark (et Spark Operator) et toutes ses 
     dépendances sur Kubernetes (AKS) au travers d’une application interne 
     développée en Java </li>
     <li>Maintiens de plusieurs centaines de clusters Kubernetes des projets Bigdata </li>
     <li>Conseils sur l’utilisation de Terraform</li>
     </ul>
-    Environnement technique : Azure, Kubernetes, Spark, Spark Operator, Helm, 
-    GitHub, GitHub Actions, Java, Argo CD, Terraform, Suite ELK
-    
+  envtech: |
+    Azure, Kubernetes, Spark, Spark Operator, Helm, GitHub, GitHub Actions, Java, Argo CD, Terraform, Suite ELK
 
 
 # HDH
@@ -30,7 +28,7 @@
     piloter et de maintenir les évolutions de la plateforme technologique sécurisée hébergeant 
     les données de santé ainsi que de gérer opérationnellement l’équipe de développement 
     (infrastructure). 
-    Mes principales missions : 
+  mission: |
     - Lead technique sur les technologies Terraform, Azure et Kubernetes 
     - Implémentation des fonctionnalités de la plateforme technologique 
     - Mise en place de pipeline de CI DevSecOps pour vérifier la sécurité et la 
@@ -44,9 +42,9 @@
     subnet/ private link/ Azure storage /Key Vault/ AKS 
     - Management et coordination de l’équipe de développeurs (12 personnes) 
     - Participation active aux recrutements 
-    - Animation du comité de pilotage 
-    Environnement technique : Terraform, Terragrunt, Terratest, Azure, Kubernetes, 
-    Helm, Azure DevOps, Linux, Réseau, Script Shell, Golang, Git
+    - Animation du comité de pilotage
+  envtech: |
+    Environnement technique : Terraform, Terragrunt, Terratest, Azure, Kubernetes, Helm, Azure DevOps, Linux, Réseau, Script Shell, Golang, Git
 
   
 # Director of Digital Stratgy
