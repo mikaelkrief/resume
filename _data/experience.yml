@@ -1,0 +1,223 @@
+# Jobs
+# VP of Global Communications
+- company: Société	Générale	(SGCIB)
+  position: Expert	Kubernetes AKS
+  duration: De décembre 2023 à Aujourd’hui
+  summary: |
+    Au	sein	de	la	feature	team	Spark	On	Kubernetes	qui	fait	partie	de	
+    l’équipe	BigData,	nous	déployons	et	maintenons	Spark	sur	
+    Kubernetes	à	destination	de	plusieurs	équipes	projets.	
+    Missions :<br />
+    <ul class="resume-item-l">
+    <li>Automatisation du déploiement de Spark (et Spark Operator) et toutes ses 
+    dépendances sur Kubernetes (AKS) au travers d’une application interne 
+    développée en Java </li>
+    <li>Maintiens de plusieurs centaines de clusters Kubernetes des projets Bigdata </li>
+    <li>Conseils sur l’utilisation de Terraform</li>
+    </ul>
+    Environnement technique : Azure, Kubernetes, Spark, Spark Operator, Helm, 
+    GitHub, GitHub Actions, Java, Argo CD, Terraform, Suite ELK
+    
+
+
+# Director of Digital Stratgy
+- company: Health	Data	Hub 
+  position: Lead Dev infrastructure 
+  duration: De mai 2022 à Novembre 2023  
+  summary: |
+    Au sein de la direction technique, en tant que Lead Dev je suis principalement chargé de 
+    piloter et de maintenir les évolutions de la plateforme technologique sécurisée hébergeant 
+    les données de santé ainsi que de gérer opérationnellement l’équipe de développement 
+    (infrastructure). 
+    Mes principales missions : 
+    - Lead technique sur les technologies Terraform, Azure et Kubernetes 
+    - Implémentation des fonctionnalités de la plateforme technologique 
+    - Mise en place de pipeline de CI DevSecOps pour vérifier la sécurité et la 
+    conformité du code Terraform, des images Docker et des Helm Chart. 
+    - Accompagnement des développeurs sur leurs montées en compétences 
+    - Coordinateur avec le Release Manager, la direction Produit (PO) ainsi que le 
+    CTO 
+    - Participation avec la cellule d’architecture à la qualification des demandes de 
+    fonctionnalités 
+    Architecture Azure entièrement sécurisée, qui est principalement constituée de vnet/ 
+    subnet/ private link/ Azure storage /Key Vault/ AKS 
+    - Management et coordination de l’équipe de développeurs (12 personnes) 
+    - Participation active aux recrutements 
+    - Animation du comité de pilotage 
+    Environnement technique : Terraform, Terragrunt, Terratest, Azure, Kubernetes, 
+    Helm, Azure DevOps, Linux, Réseau, Script Shell, Golang, Git
+
+  
+# Director of Digital Stratgy
+- company:  Talentsoft-Cegid
+  position: Tech	lead DevOps
+  duration: De janvier 2020 à mai 2022
+  summary: |
+    Missions:
+    - Référent technique sur l’Infrastructure As Code avec Terraform - Implémentation de la chaine CI/CD pour l’IaC - Architecte Azure 
+    - Mise en place d’une usine CI/CD pour les déploiements de toutes les applications dans Kubernetes (Environnement multi-cloud Azure / OVH /…) 
+    - Référent sur Docker – Kubernetes : Accompagnement des équipes développeurs sur les déploiements dans Kubernetes 
+    - Implémentation de tests d’intégration IaC automatisés (Terraform - Packer - Vagrant / Puppet) 
+    - Etude, implémentation et lead sur HashiCorp Vault 
+    - Management d’une équipe de 4-5 personnes. 
+    Environnement technique : Terraform, Hashicorp Vault, Jenkins, Azure DevOps, Kubernetes, Helm, Puppet, Inspec, Packer, Vagrant, Azure, Jira, Bitbucket, Powershell, Prometheus – Graphana, ELK suite
+ 
+
+# Director of Digital Stratgy
+- company:  Younited	Credit
+  position: Expert	DevOps	/	Azure
+  duration: De mars 2019 à décembre 2019   
+  summary: |
+    Mission: 
+    -Implémentation de l’Infrastructure As Code avec Terraform pour les toutes 
+    les nouvelles applications 
+    - Formation et accompagnement des équipes sur l’utilisation de Terraform 
+    - Création d’environnement on-Demande avec Azure DevOps, Octopus et 
+    Terraform 
+    - Mise en place des processus DevOps du déploiement de ces applications 
+    avec intégration de l’IaC.
+    Environnement technique : Azure, Terraform, Azure DevOps (VSTS), Python, Octopus Deploy 
+
+
+# Director of Digital Stratgy
+- company: Talentsoft
+  position: Expert DevOps–Terraform
+  duration: Janvier 2019 10 jours
+  summary: |
+    Mission : Accompagnement et conseil sur l’utilisation et la mise en place de 
+    Terraform pour le provisionnement d’une infrastructure Azure.
+    Environnement technique : Terraform, Azure, Jenkins 
+
+
+# Director of Digital Stratgy
+- company: GROUPE	CARREFOUR
+  position: Expert DevOps	/	Azure
+  duration: De septembre 2017 à mars 2019
+  summary: |
+    - Intégration et automatisation des déploiements infrastructure et des 
+    applications du nouveau site e-commerce carrefour.fr dans le cloud Azure. 
+    - Migration de 2 applications de la DSI dans le cloud Azure. 
+    Mission : 
+    - Tech lead et référent sur l’infrastructure As Code avec Terraform 
+    - Mise en place de processus DevOps 
+    - Intégration à la mise en place de l’architecture Azure 
+    - Implémentation et automatisation des tests de compliance d’infrastructure, 
+    de sécurité et d’applications 
+    - Lead technique et accompagnement des équipes sur les bonnes pratique 
+    DevOps et sur l’intégration de ces applications 
+    Environment Technique: Windows, Linux, Terraform, Ansible, Inspec, Jenkins, 
+    Bitbucket, Jira, Nexus repository, Confluence, PowerShell, Bash, Azure, ARM 
+    Template, Asp.net, Sql Server, Wordpress, Magento, Mysql, Varnish, Redis, Symfony
+
+
+# Director of Digital Stratgy
+- company: SNCF	(Réseau)
+  position: Expert	DevOps/Azure	
+  duration: Février 2018
+  summary: |
+    Elaboration et mise en place de l’architecture Azure pour des projets candidats au 
+    cloud. Mise en place des processus DevOps du déploiement de ces projets. 
+    Environnement technique : Azure, Visual Studio Team Services, ARM Templates, 
+    Packer
+
+
+# Director of Digital Stratgy
+- company: TAORES	–	La	Mutuelle	Générale 
+  position: Expert	DevOps	 
+  duration: De janvier 2017 à septembre 2017   
+  summary: |
+    Accompagnement des équipes dans la mise en place d’intégration et déploiement 
+    continue. Intervention pour la mise en place d’une pratique DevOps au sein des 
+    équipes. 
+    Mission : 
+    - Implémenter le déploiement d’applications avec Release Management  
+    - Automatiser le déploiement d’infrastructures ainsi que leur configuration 
+    dans AWS avec Jenkins, Terraform et Ansible 
+    - Automatisation de l’exécution des tests UI (Selenium) dans TFS 
+    - Accompagner les équipes sur les bonnes pratiques du processus DevOps 
+    - Administration TFS / Sonar / ProGet 
+    Environnement technique : TFS 2017, Jenkins, Terraform, Ansible, Sonar, ProGet, 
+    Selenium, PowerShell 
+
+
+# Director of Digital Stratgy
+- company: EDENRED 
+  position: Expert	DevOps	/	Azure	
+  duration: De mars 2016 à décembre 2016  
+  summary: |
+    Accompagnement des équipes dans la mise en place d’une démarche DevOps au 
+    sein de la DSI Edenred France. 
+    Mission : 
+    - Mettre en place les outils et les processus pour adopter une démarche 
+    DevOps au sein de la DSI Edenred France 
+    - Implémentation de l’intégration continue et du déploiement automatisé des 
+    applications 
+    - Automatisation de déploiement d’infrastructures dans Azure 
+    - Administration TFS, ProGet, Sonar 
+    Environnement technique : Azure, IaC, ARM template, Powershell,TFS 2015 Update 
+    3, Proget, Sonar, Ranorex 
+
+# Director of Digital Stratgy
+- company: AXA TECH
+  position: Expert	DevOps	/	Azure
+  duration: D’octobre 2015 à mars 2016 
+  summary: |
+    DevPaaS est une plateforme As A Service visant à fournir aux différentes filiales du 
+    groupe AXA tous les outils nécessaires pour concevoir, construire et déployer tous 
+    types d’applications. Nos clients ont à disposition une solution clé en main basée sur 
+    la stack ALM de Microsoft sans avoir à se soucier de la maintenance, du provisioning 
+    et de la mise à jour des différents composants. 
+    Mission : 
+    - Conception et mise en place des différents services. 
+    - Conception de l’infrastructure nécessaire pour héberger les services 
+    - Validation des prérequis techniques. 
+    - Accompagnement des clients dans l’utilisation de la plateforme. 
+    - Maintenance, support et mise à jour de la plateforme 
+    - Elaboration d’un projet phare dans VSTS, avec un déploiement d’une web 
+    App et une base de données dans Azure  
+    Environnement technique : Azure, Visual Studio Team Services, TFS, Nuget 
+
+
+# Director of Digital Stratgy
+- company: MCNEXT	-	Infeeny
+  position: Consultant	.Net	/	ALM	–	Chef	de	projets	technique
+  duration: De décembre 2011 à septembre 2015
+  summary: |
+    Contexte : 
+    - Développement d’applications 
+    - Gestion de projets 
+    - Expert ALM 
+    Missions : 
+    - Groupe Randstad : Développeur Web Senior / Chef de projet 
+    - Vinci Park : Développeur Web Senior / Chef de projet 
+    - Vinci Construction : Chef de projet technique / Scrum master 
+    - Eurovia : Développeur Web Senior 
+    - SEIITRA: Expert Team Foundation Server 
+    - CARAC : Expert TFS (ALM) / Développeur .Net Sénior 
+    Environnement technique : TFS 2013, VS 2013, TFS Api, MVC 4, C#, Sql Serveur 
+    2012, NHibernate, Azure  
+
+
+# Director of Digital Stratgy
+- company: Planète-Interactive/Isobar	France (Chef	de	projet	technique	-	Développeur	.net)
+  position: Développeur	Web	/	Chef	de	projets	technique
+  duration:  De mars 2006 à novembre 2011  
+  summary: |
+    Développeur	d’applications	web	en	Asp.net	(c#)	avec	des	bases	de	données	SQL	
+    Server.	
+    Contexte	:	
+    - Développement de projets aux forfaits 
+    - Sites à moyenne et forte audience 
+    - Projets de types CMS – E-commerce – Corporate – Jeux 
+    - Développements de Front Office et Back Office 
+    Missions	:	
+    - Développement .net 
+    - Gestion de projet technique 
+    - Aide à la spécification de conception 
+    - Responsable des builds TFS 
+    Principales	références	:	
+    Sushishop - Sport2000 - VirginMega - Relay - Allomatelas - Beertender - Mixa - 
+    Assystem - Le Parfait - CocaCola France - CNC 
+    Environnement	technique	:	
+    Framework .NET 1.5 à 4.5, C#, WCF,Team Foundation Server 2008/2010, Source 
+    Safe,MSBuild,Visual Studio 2003 à 2010       
