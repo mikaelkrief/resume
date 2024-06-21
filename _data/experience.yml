@@ -29,20 +29,18 @@
     les données de santé ainsi que de gérer opérationnellement l’équipe de développement 
     (infrastructure). 
   mission: |
-    - Lead technique sur les technologies Terraform, Azure et Kubernetes 
-    - Implémentation des fonctionnalités de la plateforme technologique 
-    - Mise en place de pipeline de CI DevSecOps pour vérifier la sécurité et la 
-    conformité du code Terraform, des images Docker et des Helm Chart. 
-    - Accompagnement des développeurs sur leurs montées en compétences 
-    - Coordinateur avec le Release Manager, la direction Produit (PO) ainsi que le 
-    CTO 
-    - Participation avec la cellule d’architecture à la qualification des demandes de 
-    fonctionnalités 
-    Architecture Azure entièrement sécurisée, qui est principalement constituée de vnet/ 
-    subnet/ private link/ Azure storage /Key Vault/ AKS 
-    - Management et coordination de l’équipe de développeurs (12 personnes) 
-    - Participation active aux recrutements 
-    - Animation du comité de pilotage
+    <ul>
+    <li>Lead technique sur les technologies Terraform, Azure et Kubernetes </li>
+    <li>Implémentation des fonctionnalités de la plateforme technologique </li>
+    <li>Mise en place de pipeline de CI DevSecOps pour vérifier la sécurité et la conformité du code Terraform, des images Docker et des Helm Chart. </li>
+    <li>Accompagnement des développeurs sur leurs montées en compétences </li> 
+    <li>Coordinateur avec le Release Manager, la direction Produit (PO) ainsi que le CTO </li>
+    <li>Participation avec la cellule d’architecture à la qualification des demandes de fonctionnalités Architecture Azure entièrement sécurisée, qui est principalement constituée de vnet/ 
+    subnet/ private link/ Azure storage /Key Vault/ AKS </li>
+    <li>Management et coordination de l’équipe de développeurs (12 personnes) </li>
+    <li>Participation active aux recrutements </li>
+    <li>Animation du comité de pilotage </li>
+    </ul>
   envtech: |
     Environnement technique : Terraform, Terragrunt, Terratest, Azure, Kubernetes, Helm, Azure DevOps, Linux, Réseau, Script Shell, Golang, Git
 
@@ -53,12 +51,14 @@
   duration: De janvier 2020 à mai 2022
   summary: |
   mission: |
-    - Référent technique sur l’Infrastructure As Code avec Terraform - Implémentation de la chaine CI/CD pour l’IaC - Architecte Azure 
-    - Mise en place d’une usine CI/CD pour les déploiements de toutes les applications dans Kubernetes (Environnement multi-cloud Azure / OVH /…) 
-    - Référent sur Docker – Kubernetes : Accompagnement des équipes développeurs sur les déploiements dans Kubernetes 
-    - Implémentation de tests d’intégration IaC automatisés (Terraform - Packer - Vagrant / Puppet) 
-    - Etude, implémentation et lead sur HashiCorp Vault 
-    - Management d’une équipe de 4-5 personnes. 
+    <ul>
+    <li>Référent technique sur l’Infrastructure As Code avec Terraform - Implémentation de la chaine CI/CD pour l’IaC - Architecte Azure </li>
+    <li>Mise en place d’une usine CI/CD pour les déploiements de toutes les applications dans Kubernetes (Environnement multi-cloud Azure / OVH /…) </li> 
+    <li>Référent sur Docker – Kubernetes : Accompagnement des équipes développeurs sur les déploiements dans Kubernetes </li>
+    <li>Implémentation de tests d’intégration IaC automatisés (Terraform - Packer - Vagrant / Puppet) </li>
+    <li>Etude, implémentation et lead sur HashiCorp Vault </li>
+    <li>Management d’une équipe de 4-5 personnes. </li> 
+    </ul>
   envtech: |
     Terraform, Hashicorp Vault, Jenkins, Azure DevOps, Kubernetes, Helm, Puppet, Inspec, Packer, Vagrant, Azure, Jira, Bitbucket, Powershell, Prometheus – Graphana, ELK suite
  
@@ -68,10 +68,12 @@
   duration: De mars 2019 à décembre 2019   
   summary: |
   mission: |
-    - Implémentation de l’Infrastructure As Code avec Terraform pour les toutes les nouvelles applications 
-    - Formation et accompagnement des équipes sur l’utilisation de Terraform 
-    - Création d’environnement on-Demande avec Azure DevOps, Octopus et Terraform 
-    - Mise en place des processus DevOps du déploiement de ces applications avec intégration de l’IaC.
+    <ul>
+    <li>Implémentation de l’Infrastructure As Code avec Terraform pour les toutes les nouvelles applications </li>
+    <li>Formation et accompagnement des équipes sur l’utilisation de Terraform </li>
+    <li>Création d’environnement on-Demande avec Azure DevOps, Octopus et Terraform </li>
+    <li>Mise en place des processus DevOps du déploiement de ces applications avec intégration de l’IaC. </li>
+    </ul>
   envtech: |
     Azure, Terraform, Azure DevOps (VSTS), Python, Octopus Deploy 
 
@@ -90,18 +92,20 @@
   position: Expert DevOps	/	Azure
   duration: De septembre 2017 à mars 2019
   summary: |
-    - Intégration et automatisation des déploiements infrastructure et des 
-    applications du nouveau site e-commerce carrefour.fr dans le cloud Azure. 
-    - Migration de 2 applications de la DSI dans le cloud Azure. 
+    <ul>
+    <li>Intégration et automatisation des déploiements infrastructure et des applications du nouveau site e-commerce carrefour.fr dans le cloud Azure. </li>
+    <li>Migration de 2 applications de la DSI dans le cloud Azure. </li>
+    </ul>
+     
   mission: | 
-    - Tech lead et référent sur l’infrastructure As Code avec Terraform 
-    - Mise en place de processus DevOps 
-    - Intégration à la mise en place de l’architecture Azure 
-    - Implémentation et automatisation des tests de compliance d’infrastructure, 
-    de sécurité et d’applications 
-    - Lead technique et accompagnement des équipes sur les bonnes pratique 
-    DevOps et sur l’intégration de ces applications 
-  envtech: |
+    <ul>
+    <li>Tech lead et référent sur l’infrastructure As Code avec Terraform </li>
+    <li>Mise en place de processus DevOps </li>
+    <li>Intégration à la mise en place de l’architecture Azure </li>
+    <li>Implémentation et automatisation des tests de compliance d’infrastructure, de sécurité et d’applications </li>
+    <li>Lead technique et accompagnement des équipes sur les bonnes pratique DevOps et sur l’intégration de ces applications </li>
+    </ul>
+  envtech: 
     Windows, Linux, Terraform, Ansible, Inspec, Jenkins, 
     Bitbucket, Jira, Nexus repository, Confluence, PowerShell, Bash, Azure, ARM 
     Template, Asp.net, Sql Server, Wordpress, Magento, Mysql, Varnish, Redis, Symfony
@@ -126,9 +130,11 @@
     continue. Intervention pour la mise en place d’une pratique DevOps au sein des 
     équipes. 
     Clients : 
-    - TAORES (La	Mutuelle	Générale) - De janvier 2017 à septembre 2017
-    - Edenred - De mars 2016 à décembre 2016
-    - AXA Tech - De Octobre 2015 à mars 2016
+    <ul>
+    <li>TAORES (La	Mutuelle	Générale) - De janvier 2017 à septembre 2017 </li>
+    <li>Edenred - De mars 2016 à décembre 2016 </li>
+    <li>AXA Tech - De Octobre 2015 à mars 2016 </li>
+    </ul>
   envtech: |
     Azure, ARM Template, TFS , Jenkins, Terraform, Ansible, Sonar, ProGet, Selenium, PowerShell, Nuget
 
@@ -136,17 +142,21 @@
   position: Consultant	.Net	/	ALM	–	Chef	de	projets	technique
   duration: De décembre 2011 à septembre 2015
   summary: |
-    Contexte : 
-    - Développement d’applications 
-    - Gestion de projets 
-    - Expert ALM 
+    Contexte :
+    <ul>
+    <li>Développement d’applications </li> 
+    <li>Gestion de projets </li>
+    <li>Expert ALM </li>
+    </ul>
   mission: |
-    - Groupe Randstad : Développeur Web Senior / Chef de projet 
-    - Vinci Park : Développeur Web Senior / Chef de projet 
-    - Vinci Construction : Chef de projet technique / Scrum master 
-    - Eurovia : Développeur Web Senior 
-    - SEIITRA: Expert Team Foundation Server 
-    - CARAC : Expert TFS (ALM) / Développeur .Net Sénior 
+    <ul>
+    <li>Groupe Randstad : Développeur Web Senior / Chef de projet </li>
+    <li>Vinci Park : Développeur Web Senior / Chef de projet </li>
+    <li>Vinci Construction : Chef de projet technique / Scrum master </li>
+    <li>Eurovia : Développeur Web Senior </li>
+    <li>SEIITRA: Expert Team Foundation Server </li>
+    <li>CARAC : Expert TFS (ALM) / Développeur .Net Sénior </li>
+    </ul>
   envtech: |
     TFS 2013, VS 2013, TFS Api, MVC 4, C#, Sql Serveur 2012, NHibernate, Azure  
 
@@ -158,16 +168,19 @@
     Développeur	d’applications	web	en	Asp.net	(c#)	avec	des	bases	de	données	SQL	
     Server.	
     Contexte	:	
-    - Développement de projets aux forfaits 
-    - Sites à moyenne et forte audience 
-    - Projets de types CMS – E-commerce – Corporate – Jeux 
-    - Développements de Front Office et Back Office 
+    <ul>
+    <li>Développement de projets aux forfaits </li>
+    <li>Sites à moyenne et forte audience </li>
+    <li>Projets de types CMS – E-commerce – Corporate – Jeux </li>
+    <li>Développements de Front Office et Back Office </li>
+    </ul>
   mission: |
-    - Développement .net 
-    - Gestion de projet technique 
-    - Aide à la spécification de conception 
-    - Responsable des builds TFS 
-    Principales	références	:	
+    <ul>
+    <li>Développement .net 
+    <li>Gestion de projet technique </li>
+    <li>Aide à la spécification de conception </li>
+    <li>Responsable des builds TFS </li>
+    Principales	références :	
     Sushishop - Sport2000 - VirginMega - Relay - Allomatelas - Beertender - Mixa - 
     Assystem - Le Parfait - CocaCola France - CNC 
   envtech: |	
